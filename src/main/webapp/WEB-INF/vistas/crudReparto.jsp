@@ -192,7 +192,7 @@
 		                                    <div class="form-group">
 		                                        <label class="col-lg-3 control-label" for="id_act_codrepartidor">Codrepartidor</label>
 		                                        <div class="col-lg-5">
-													<input class="form-control" id="id_act_codrepartidor" name="codrepartidor" placeholder="Ingrese el codrepartidor" type="text" maxlength="10"/>
+													<input class="form-control" id="id_act_codrepartidor" name="codrepartidor" placeholder="Ingrese el codigo del repartidor" type="text" maxlength="10"/>
 		                                        </div>
 		                                    </div>
 		                                    <div class="form-group">
@@ -204,7 +204,7 @@
 		                                    <div class="form-group">
 		                                        <label class="col-lg-3 control-label" for="id_act_nombrecliente">nombrecliente</label>
 		                                        <div class="col-lg-5">
-													<input class="form-control" id="id_act_nombrecliente" name="nombrecliente" placeholder="Ingrese el nombrecliente" type="text" maxlength="10"/>
+													<input class="form-control" id="id_act_nombrecliente" name="nombrecliente" placeholder="Ingrese el nombrecliente" type="text" maxlength="20"/>
 		                                        </div>
 		                                    </div>  
 		                                    <div class="form-group">
