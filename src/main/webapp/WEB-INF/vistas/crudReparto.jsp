@@ -19,7 +19,7 @@
 <body> 
 <body background="fondo/mercaderia.jpg">
  <div class="container">
- <h1>CRUD DE REPARTO</h1>
+ <h1 style="color:#FFFFFF">CRUD DE REPARTO</h1>
 		 <div class="col-md-23" >  
 			  <form id="idFormElimina" action="eliminaReparto">
 			  		<input type="hidden" id="id_elimina" name="id">
@@ -29,7 +29,7 @@
 		       		<div class="row">
 						<div class="col-md-3">	
 							<div class="form-group">
-							  	<label class="control-label" for="id_codrepartidor_filtro">CODREPARTIDOR</label>
+							  	<label class="control-label" for="id_codrepartidor_filtro" style="color:#FFFFFF">CODIGO DEL REPARTIDOR</label>
 							  	<input class="form-control" id="id_codrepartidor_filtro"  name="filtro" placeholder="Ingrese codrepartidor" type="text" maxlength="30"/>
 							</div>
 						</div>
@@ -46,7 +46,7 @@
 						<div class="col-md-12">
 								<div class="content" >
 						
-									<table id="tableAlumno" class="table table-striped table-bordered" style="background-color:#3D7CBE;" >
+									<table id="tableAlumno" class="table table-striped table-bordered" style="color:#FFFFFF" >
 										<thead>
 											<tr>
 												<th>ID</th>
