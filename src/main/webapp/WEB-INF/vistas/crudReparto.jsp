@@ -29,7 +29,7 @@
 		       		<div class="row">
 						<div class="col-md-3">	
 							<div class="form-group">
-							  	<label class="control-label" for="id_codrepartidor_filtro" style="color:#FFFFFF">CODIGO DEL REPARTIDOR</label>
+							  	<label class="control-label" for="id_codrepartidor_filtro">CODREPARTIDOR</label>
 							  	<input class="form-control" id="id_codrepartidor_filtro"  name="filtro" placeholder="Ingrese codrepartidor" type="text" maxlength="30"/>
 							</div>
 						</div>
