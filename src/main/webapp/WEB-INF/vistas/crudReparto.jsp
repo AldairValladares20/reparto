@@ -46,7 +46,7 @@
 						<div class="col-md-12">
 								<div class="content" >
 						
-									<table id="tableAlumno" class="table table-striped table-bordered" style="color:#FFFFFF" >
+									<table id="tableAlumno" class="table table-striped table-bordered" style="background-color:#3D7CBE;" >
 										<thead>
 											<tr>
 												<th>ID</th>
